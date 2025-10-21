@@ -1,6 +1,6 @@
 <!-- https://mybinder.org/ main binder url-->
 
-# my-first-binder
+#My First Binder
 This is a test for my inital attempt at a Jupyter notebook
 
 
